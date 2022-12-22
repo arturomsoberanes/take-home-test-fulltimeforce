@@ -19,6 +19,10 @@
 This project is an App that shows their commit history, these project is a test for Fulltimeforce.
 To make this project use [Create React App](https://create-react-app.dev/)
 
+## :dart: DEMO ##
+
+If you want to try it just click [here](https://arturomsoberanes.github.io/take-home-test-fulltimeforce)
+
 ## :art: Technologies ##
 
 - [HTML](https://www.w3schools.com/html/)
