@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9667ac10.css",
-    "main.js": "/static/js/main.6603e7d2.js",
-    "static/js/787.340a3225.chunk.js": "/static/js/787.340a3225.chunk.js",
-    "index.html": "/index.html",
-    "main.9667ac10.css.map": "/static/css/main.9667ac10.css.map",
-    "main.6603e7d2.js.map": "/static/js/main.6603e7d2.js.map",
-    "787.340a3225.chunk.js.map": "/static/js/787.340a3225.chunk.js.map"
+    "main.css": "/take-home-test-fulltimeforce/static/css/main.9667ac10.css",
+    "main.js": "/take-home-test-fulltimeforce/static/js/main.831cf151.js",
+    "static/js/787.340a3225.chunk.js": "/take-home-test-fulltimeforce/static/js/787.340a3225.chunk.js",
+    "index.html": "/take-home-test-fulltimeforce/index.html",
+    "main.9667ac10.css.map": "/take-home-test-fulltimeforce/static/css/main.9667ac10.css.map",
+    "main.831cf151.js.map": "/take-home-test-fulltimeforce/static/js/main.831cf151.js.map",
+    "787.340a3225.chunk.js.map": "/take-home-test-fulltimeforce/static/js/787.340a3225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9667ac10.css",
-    "static/js/main.6603e7d2.js"
+    "static/js/main.831cf151.js"
   ]
 }
