@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# <h1 align="center">Test Fulltimeforce</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
+  <a href="#dart-demo">Demo</a> &#xa0; | &#xa0;
+  <a href="#art-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#toolbox-installation">Installation</a> &#xa0; | &#xa0;
+  <a href="#joystickhow-to-play">How to Play</a> &#xa0; | &#xa0;
+  <a href="#briefcase-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/arturomsoberanes" target="_blank">Author</a>
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
 
-### `npm start`
+## :dart: Description ##
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project is an App that shows their commit history, these project is a test for Fulltimeforce.
+To make this project use [Create React App](https://create-react-app.dev/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :art: Technologies ##
 
-### `npm test`
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
+- [React](https://reactjs.org/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :white_check_mark: Requirements ##
 
-### `npm run build`
+Before starting :checkered_flag:, you need to have:
+- [Git](https://git-scm.com).
+- [Node.js](https://nodejs.org/en/).
+- [Create React App](https://create-react-app.dev/).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :toolbox: Installation ##
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone Repository
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+$ git clone https://github.com/arturomsoberanes/take-home-test-fulltimeforce.git
+```
+Go to directory
 
-### `npm run eject`
+```bash
+$ cd take-home-test-fulltimeforce
+```
+Install all dependencies.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+$ npm install 
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :joystick:	How to Run ##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Access in directory
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+$ cd take-home-test-fulltimeforce
+```
 
-## Learn More
+Execute "start"
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+$ npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :briefcase:	 License ##
 
-### Analyzing the Bundle Size
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Made with :heart: by <a href="https://github.com/arturomsoberanes" target="_blank">Arturo Soberanes</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+&#xa0;
 
-### Advanced Configuration
+<a href="#top">Back to top</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
